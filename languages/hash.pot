@@ -1,0 +1,1188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hash v1.0.0\n"
+"POT-Creation-Date: 2016-02-14 01:11+0500\n"
+"PO-Revision-Date: 2016-02-14 01:12+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:14
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:16
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:16
+msgid "F Y"
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:18
+msgid "Y"
+msgstr ""
+
+#: archive.php:20
+msgid "Archives"
+msgstr ""
+
+#: archive.php:76 author.php:71 category.php:66 index.php:97 search.php:66
+#: tag.php:66
+msgid "No posts found"
+msgstr ""
+
+#: author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: blog.php:25
+msgid "Read more"
+msgstr ""
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:60
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:100
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:102
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: functions.php:110
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:112
+msgid "Widgets in this area will be shown on the Blog Page."
+msgstr ""
+
+#: functions.php:121
+msgid "Top Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Widgets in this area will be shown on the header."
+msgstr ""
+
+#: functions.php:132
+msgid "Footer Sidebar Column one"
+msgstr ""
+
+#: functions.php:134
+msgid "Widgets in this area will be shown on the footer Column one."
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Sidebar Column two"
+msgstr ""
+
+#: functions.php:145
+msgid "Widgets in this area will be shown on the footer Column two."
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Sidebar Column three"
+msgstr ""
+
+#: functions.php:156
+msgid "Widgets in this area will be shown on the footer Column three."
+msgstr ""
+
+#: includes/helpers/custom_menus_field.php:43
+msgid "Menu Icon Image URL"
+msgstr ""
+
+#: includes/helpers/custom_menus_field.php:43
+msgid "Please enter menu icon image link here."
+msgstr ""
+
+#: includes/library/functions.php:82 includes/library/functions.php:84
+#: includes/library/widgets.php:279 includes/library/widgets.php:382
+#: includes/library/widgets.php:685
+msgid "All Categories"
+msgstr ""
+
+#: includes/library/functions.php:231
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/library/functions.php:422
+msgid "Home"
+msgstr ""
+
+#: includes/library/functions.php:533 includes/library/functions.php:538
+#: includes/library/functions.php:543 includes/library/functions.php:548
+msgid "Archive for "
+msgstr ""
+
+#: includes/library/functions.php:553
+msgid "Search Results for "
+msgstr ""
+
+#: includes/library/functions.php:558
+msgid "404 - Not Found"
+msgstr ""
+
+#: includes/library/functions.php:619
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: includes/library/functions.php:685
+msgid "You must agreed the policy"
+msgstr ""
+
+#: includes/library/functions.php:727
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: includes/library/functions.php:733
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: includes/library/functions.php:876
+msgid "Your Name"
+msgstr ""
+
+#: includes/library/functions.php:877
+msgid "Your Email"
+msgstr ""
+
+#: includes/library/functions.php:878
+msgid "Your Website"
+msgstr ""
+
+#: includes/library/functions.php:887
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: includes/library/functions.php:938
+msgid "Your Message"
+msgstr ""
+
+#: includes/library/functions.php:939
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: includes/library/functions.php:940
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/library/functions.php:943
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: includes/library/functions.php:944
+#, php-format
+msgid "LEAVE A COMENT to %s"
+msgstr ""
+
+#: includes/library/functions.php:945
+msgid "CANCEL COMMENT"
+msgstr ""
+
+#: includes/library/functions.php:946
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: includes/library/functions.php:1834
+msgid "Poor"
+msgstr ""
+
+#: includes/library/functions.php:1834
+msgid "Satisfactory"
+msgstr ""
+
+#: includes/library/functions.php:1834
+msgid "Good"
+msgstr ""
+
+#: includes/library/functions.php:1834
+msgid "Better"
+msgstr ""
+
+#: includes/library/functions.php:1834
+msgid "Awesome"
+msgstr ""
+
+#: includes/library/functions.php:1893
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: includes/library/widgets.php:6
+msgid "Hash About us "
+msgstr ""
+
+#: includes/library/widgets.php:6
+msgid "About us widget "
+msgstr ""
+
+#: includes/library/widgets.php:46 includes/library/widgets.php:599
+msgid "Icon Url: "
+msgstr ""
+
+#: includes/library/widgets.php:52 includes/library/widgets.php:204
+msgid "Enter the text:"
+msgstr ""
+
+#: includes/library/widgets.php:68
+msgid "Hash Contact us"
+msgstr ""
+
+#: includes/library/widgets.php:68
+msgid "Contact us"
+msgstr ""
+
+#: includes/library/widgets.php:82
+#: includes/modules/shortcodes/contact_info.php:9
+msgid "Telephone :"
+msgstr ""
+
+#: includes/library/widgets.php:85
+#: includes/modules/shortcodes/contact_info.php:11
+msgid "E-mail :"
+msgstr ""
+
+#: includes/library/widgets.php:108
+msgid "Contact"
+msgstr ""
+
+#: includes/library/widgets.php:116 includes/library/widgets.php:478
+msgid "Title:"
+msgstr ""
+
+#: includes/library/widgets.php:122
+msgid "Address:"
+msgstr ""
+
+#: includes/library/widgets.php:130
+msgid "Phone: "
+msgstr ""
+
+#: includes/library/widgets.php:136
+msgid "Email: "
+msgstr ""
+
+#: includes/library/widgets.php:149
+msgid "HAsh Social Media "
+msgstr ""
+
+#: includes/library/widgets.php:149
+msgid "Social Media"
+msgstr ""
+
+#: includes/library/widgets.php:192
+msgid "Stay connected"
+msgstr ""
+
+#: includes/library/widgets.php:193
+msgid "Follow us on social media and be up to date with the latest happenings."
+msgstr ""
+
+#: includes/library/widgets.php:197 includes/library/widgets.php:265
+#: includes/library/widgets.php:368 includes/library/widgets.php:535
+#: includes/library/widgets.php:605 includes/library/widgets.php:671
+#: includes/library/widgets.php:769 includes/library/widgets.php:856
+msgid "Title: "
+msgstr ""
+
+#: includes/library/widgets.php:212
+msgid "Show Social icons"
+msgstr ""
+
+#: includes/library/widgets.php:226
+msgid "Hash Recent Posts "
+msgstr ""
+
+#: includes/library/widgets.php:226
+msgid "New items with images"
+msgstr ""
+
+#: includes/library/widgets.php:259
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/library/widgets.php:271 includes/library/widgets.php:374
+#: includes/library/widgets.php:677 includes/library/widgets.php:776
+#: includes/library/widgets.php:863
+msgid "No. of Posts:"
+msgstr ""
+
+#: includes/library/widgets.php:277 includes/library/widgets.php:380
+#: includes/library/widgets.php:683
+msgid "Category"
+msgstr ""
+
+#: includes/library/widgets.php:317
+msgid "Hash Latest Review"
+msgstr ""
+
+#: includes/library/widgets.php:317
+msgid "Blog Latest Reviews"
+msgstr ""
+
+#: includes/library/widgets.php:361
+msgid "Latest Review"
+msgstr ""
+
+#: includes/library/widgets.php:386
+msgid "Add URL: "
+msgstr ""
+
+#: includes/library/widgets.php:422
+msgid "Hash News Letter"
+msgstr ""
+
+#: includes/library/widgets.php:422
+msgid "News Letter"
+msgstr ""
+
+#: includes/library/widgets.php:443
+msgid "your.address@email.com"
+msgstr ""
+
+#: includes/library/widgets.php:472
+msgid "Newsletter"
+msgstr ""
+
+#: includes/library/widgets.php:482
+msgid "Text:"
+msgstr ""
+
+#: includes/library/widgets.php:486
+msgid "Feedburner ID:"
+msgstr ""
+
+#: includes/library/widgets.php:499
+msgid "Hash Youtube Video"
+msgstr ""
+
+#: includes/library/widgets.php:499
+msgid "Fetch the Youtube Video"
+msgstr ""
+
+#: includes/library/widgets.php:529
+msgid "video of the day"
+msgstr ""
+
+#: includes/library/widgets.php:541
+msgid "Video Url: "
+msgstr ""
+
+#: includes/library/widgets.php:554
+msgid "Hash Purchase Banner"
+msgstr ""
+
+#: includes/library/widgets.php:554
+msgid "Purchase Banner"
+msgstr ""
+
+#: includes/library/widgets.php:570
+msgid "Purchase "
+msgstr ""
+
+#: includes/library/widgets.php:592
+msgid "HASH"
+msgstr ""
+
+#: includes/library/widgets.php:611
+msgid "Description:"
+msgstr ""
+
+#: includes/library/widgets.php:619
+msgid "Add Url: "
+msgstr ""
+
+#: includes/library/widgets.php:632
+msgid "Hash Recent Blog Posts "
+msgstr ""
+
+#: includes/library/widgets.php:632
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: includes/library/widgets.php:665 includes/library/widgets.php:765
+#: includes/library/widgets.php:852
+msgid "Latest Post"
+msgstr ""
+
+#: includes/library/widgets.php:728
+msgid "Hash Follow Us "
+msgstr ""
+
+#: includes/library/widgets.php:728
+msgid "Follow us widget with follower stat from Theme Options"
+msgstr ""
+
+#: includes/library/widgets.php:813
+msgid "Hash Image Slider "
+msgstr ""
+
+#: includes/library/widgets.php:813
+msgid "Show image slider / carousel"
+msgstr ""
+
+#: includes/library/widgets.php:916
+msgid "Select an Image"
+msgstr ""
+
+#: includes/library/widgets.php:917
+msgid "Insert Into Widget"
+msgstr ""
+
+#: includes/loader.php:154 includes/loader.php:155
+#: includes/resource/framework.config.php:13
+#: includes/thirdparty/framework/config/framework.config.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: includes/loader.php:158
+msgid "Facebook"
+msgstr ""
+
+#: includes/loader.php:158
+msgid "Twitter"
+msgstr ""
+
+#: includes/loader.php:158
+msgid "Dribble"
+msgstr ""
+
+#: includes/loader.php:158
+msgid "Github"
+msgstr ""
+
+#: includes/loader.php:159
+msgid "Flickr"
+msgstr ""
+
+#: includes/loader.php:159
+msgid "Google+"
+msgstr ""
+
+#: includes/loader.php:159
+msgid "Youtube"
+msgstr ""
+
+#: includes/modules/nav.php:8
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/modules/nav.php:45 includes/modules/shortcodes/top_social.php:23
+#: searchform.php:7
+msgid "Search"
+msgstr ""
+
+#: includes/modules/shortcodes/latest_news.php:10
+msgid "Breaking"
+msgstr ""
+
+#: includes/modules/templates/header_info.php:11
+msgid "Call Us : "
+msgstr ""
+
+#: includes/modules/templates/header_info.php:18
+msgid "Mail Us :"
+msgstr ""
+
+#: includes/resource/framework.config.php:535
+msgid "Blog Grids Columns"
+msgstr ""
+
+#: includes/resource/framework.config.php:536
+msgid "Select blog listing grids columns"
+msgstr ""
+
+#: includes/resource/framework.config.php:538
+msgid "Two Columns"
+msgstr ""
+
+#: includes/resource/framework.config.php:539
+msgid "Three Columns"
+msgstr ""
+
+#: includes/resource/framework.config.php:540
+msgid "Four Columns"
+msgstr ""
+
+#: includes/resource/framework.config.php:909
+msgid "Title"
+msgstr ""
+
+#: includes/resource/framework.config.php:910
+msgid "Enter the title of the social media."
+msgstr ""
+
+#: includes/resource/framework.config.php:1086
+#: includes/resource/metabox.config.php:53
+msgid "Choose Images"
+msgstr ""
+
+#: includes/resource/framework.config.php:1087
+msgid "Add Images"
+msgstr ""
+
+#: includes/resource/framework.config.php:1088
+#: includes/resource/metabox.config.php:54
+msgid "Edit Images"
+msgstr ""
+
+#: includes/resource/framework.config.php:1089
+#: includes/resource/metabox.config.php:55
+msgid "Remove Images"
+msgstr ""
+
+#: includes/resource/metabox.config.php:15
+msgid "Extra Post Options"
+msgstr ""
+
+#: includes/resource/metabox.config.php:28
+msgid "Post Layout"
+msgstr ""
+
+#: includes/resource/metabox.config.php:46
+msgid "Choose Sidebar"
+msgstr ""
+
+#: includes/resource/metabox.config.php:52
+msgid "Gallery post format"
+msgstr ""
+
+#: includes/resource/metabox.config.php:56
+msgid "Choose image from media uploader only if the post format is Gallery"
+msgstr ""
+
+#: includes/resource/metabox.config.php:61
+msgid "Video Embed Code"
+msgstr ""
+
+#: includes/resource/metabox.config.php:62
+msgid "Fill only if post format is video"
+msgstr ""
+
+#: includes/resource/metabox.config.php:72
+msgid "Audio Embed Code"
+msgstr ""
+
+#: includes/resource/metabox.config.php:73
+msgid "Fill only if post format is audio"
+msgstr ""
+
+#: includes/resource/metabox.config.php:84
+msgid "Quote post format"
+msgstr ""
+
+#: includes/resource/metabox.config.php:85
+msgid "Fill only if post format is quote"
+msgstr ""
+
+#: includes/resource/metabox.config.php:98
+msgid "Team Post Options"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:176
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:181
+msgid "Default options restored."
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:200
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:364
+msgid "Settings saved."
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:365
+msgid "Save"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:365
+msgid "Saving..."
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:366
+msgid "Restore"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/framework.class.php:368
+msgid "show all options"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/options.class.php:131
+msgid "USAGE"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/options.class.php:213
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/shortcode.class.php:82
+#: includes/thirdparty/framework/classes/shortcode.class.php:90
+#: includes/thirdparty/framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: includes/thirdparty/framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/background/background.php:31
+#: includes/thirdparty/framework/fields/background/background.php:32
+#: includes/thirdparty/framework/fields/upload/upload.php:23
+#: includes/thirdparty/framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/background/background.php:33
+#: includes/thirdparty/framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: includes/thirdparty/framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/group/group.php:43
+#: includes/thirdparty/framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/icon/icon.php:25
+#: includes/thirdparty/framework/functions/actions.php:55
+msgid "Add Icon"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/thirdparty/framework/fields/typography/typography.php:107
+#: includes/thirdparty/framework/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: includes/thirdparty/framework/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr ""
+
+#: includes/thirdparty/framework/functions/actions.php:57
+msgid "Loading..."
+msgstr ""
+
+#: includes/thirdparty/framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: includes/thirdparty/framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: includes/thirdparty/framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: includes/thirdparty/framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:52
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:53
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:54
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:336
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:55
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:66
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3032
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:67
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:400
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2835
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:831
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3441
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:938
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:941
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:941
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1884
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2170
+msgid "Required"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2173
+msgid "Recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2189
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2192
+msgid "External Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2195
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2212
+msgid "Not Installed"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2216
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2218
+msgid "Active"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2224
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2227
+msgid "Requires Update"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2230
+msgid "Update recommended"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2238
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2374
+msgid "unknown"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2382
+msgid "Installed version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2390
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2402
+msgid "Available version:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2425
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2439
+msgid "Plugin"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2440
+msgid "Source"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2441
+msgid "Type"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2445
+msgid "Version"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2446
+msgid "Status"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2503
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2573
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2606
+msgid "Install"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2612
+msgid "Update"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2615
+msgid "Activate"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2791
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2817
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3031
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3372
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+msgid "Show Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3373
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+msgid "Hide Details"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3374
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3378
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3379
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3380
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/thirdparty/tgm-plugin-activation/plugins.php:68
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/vc_map.php:164
+msgid "Container"
+msgstr ""
+
+#: includes/vc_map.php:167
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: search.php:11
+msgid "Search Results for: "
+msgstr ""
+
+#: searchform.php:3 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:36
+msgid "By "
+msgstr ""
+
+#: single.php:46
+msgid "Pages: "
+msgstr ""
+
+#: single.php:51
+msgid "Tags :"
+msgstr ""
+
+#: single.php:74
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:81
+msgid "Next Post"
+msgstr ""

@@ -1,0 +1,80 @@
+	/*
+	Theme Name: Hash
+	Author: PremiumLayers
+	Version: 1.3.1
+	Author URI: https://themeforest.net/user/premiumlayers/portfolio
+	Theme URI: http://premiumlayers.net/demo/wp/hash/
+	Description: Hash - Responsive WordPress Magazine Theme
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, rtl-language-support, sticky-post, translation-ready, microformats
+	Text Domain: hash
+*/
+
+/*** General Styles
+----------------------------------------------------------- ***/
+
+@import url(css/bootstrap.css);
+@import url(css/jquery.mCustomScrollbar.min.css);
+@import url(css/jquery-ui.css);
+@import url(css/lightbox.css);
+@import url(css/owl.carousel.css);
+@import url(css/style.css);
+@import url(css/responsive.css);
+
+.wp-caption-text, .wp-caption{
+	margin: 10px;
+}
+.hentry.sticky:not(.has-post-thumbnail) {
+	padding-top: -webkit-calc(7.6923% + 24px);
+	padding-top: calc(7.6923% + 24px);
+}
+.pagination .current .screen-reader-text {
+        position: absolute !important;
+}
+.wp-caption-text,
+.gallery-caption{
+        font-size: 14px;
+        font-size: 1.4rem;
+}
+.bypostauthor{}
+
+body .mainnav .main_nav_box #nav > li li:hover {
+    background-color: transparent !important;
+}
+
+.widget .search-field.form-control {
+    float: left;
+    width: 190px;
+	margin-bottom: 10px;
+}
+
+.main_nav_box ul#nav > li {
+    background-repeat: no-repeat;
+    background-position: 27px 25px;
+    border-top: 2px solid #c66196;
+    position: relative;
+}
+.main_nav_box ul#nav > li > a {
+    position: relative;
+}
+
+.main_nav_box ul#nav > li:before {
+    content: " ";
+    background-image: url(images/nav_news_hr.png);
+    background-repeat: no-repeat;
+    height: 27px;
+    width: 16%;
+    left: 27px;
+    top: 26px;
+    visibility: hidden;
+    position: absolute;
+}
+
+.main_nav_box ul#nav > li:hover:before {
+    visibility: visible;
+}
+
+.search-submit.btn.btn-default {
+	float: left;
+}
